@@ -1,0 +1,67 @@
+ #s1::first-letter{
+      color: red;
+      font-size: 60px;
+      font-style: initial;
+    }
+  #s2 li{
+      color: white;
+      display: inline-block;
+      padding: 15px;
+      overflow: hidden;	
+    }
+  #s2 li:hover{
+      background-color: orange;
+    }
+  #butt:hover{
+      background-color: red;	
+    }
+  .sub {
+      background-color:#102486;
+      color: #fcfdff;
+      width: 100% ;
+      border-radius: 20px
+      ;margin-bottom: 15px;
+    }
+.lin {	
+    display: block;
+    border: 2px solid red;
+    border-radius: 520px;
+    text-align: center;
+    padding: 10px;
+    text-decoration: none;
+    color: black;
+    width: 50%;
+    margin-bottom: 10px;
+}
+#bhu1{
+    text-align: center;
+    background-color:#030541;
+    color: white;
+    border-radius: 5px;
+    margin-top: 10px;
+    width: 50%;
+    margin-left: 140px;
+    padding: 5px;
+}
+#head2{
+    text-align: center;
+    background-color:#5d0808; 
+    color: white;
+    border-radius: 10px;
+    margin-top: 10px; 
+    margin-left: 100px;
+}
+#listyle{
+    padding: 15px; 
+    background-color: seagreen; 
+    border-left: 4px solid currentColor;
+    text-align: center;
+}
+#listyle:hover{
+    background-color: green;
+    color: white;
+}
+#s2{
+    position: sticky;
+    top: 0; 
+}
